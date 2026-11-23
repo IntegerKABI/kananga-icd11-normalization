@@ -1,0 +1,22 @@
+indicateur,valeur,pourcentage,definition
+consultations_diagnostic_paludisme,5287,,Au moins une etiquette contenant paludisme ou une faute a distance <= 2
+avec_goutte_epaisse_demandee,4888,92.5,Liaison par id_consultation
+avec_resultat_goutte_epaisse,4837,91.5,Au moins un enregistrement med_resultat_examen
+resultat_positif,4755,89.9,"Negation explicite prioritaire, sinon positivite/paludisme/comptage trophozoites"
+resultat_negatif,50,0.9,"Mention explicite negative, absence ou pas de trophozoites/parasites"
+resultat_indetermine,30,0.6,Resultat present mais polarite non decidable par les regles
+resultat_discordant,2,0.0,Au moins un resultat positif et un negatif dans la meme consultation
+demande_sans_resultat,51,1.0,
+goutte_epaisse_non_demandee,399,7.5,
+confirmation_parasitologique_decidable,4805,90.9,Consultations classees positives ou negatives; discordances exclues
+espece_plasmodiale_documentee,0,0.0,"Recherche falciparum, vivax, ovale, malariae, knowlesi ou Plasmodium"
+abreviation_pf_candidate,11,0.2,PF dans un resultat de goutte epaisse; interpretation falciparum a valider
+toutes_lignes_goutte_epaisse,5494,,"Toutes consultations, avec ou sans diagnostic de paludisme"
+tous_resultats_goutte_epaisse,5430,,
+tous_resultats_ge_positifs,5277,97.2,
+tous_resultats_ge_negatifs,97,1.8,
+tous_resultats_ge_indetermines,56,1.0,
+tous_resultats_ge_avec_espece,0,0.0,
+tous_resultats_ge_avec_pf_candidat,13,0.2,
+lignes_ge_sans_consultation,0,,
+consultations_paludisme_discordantes,2,,

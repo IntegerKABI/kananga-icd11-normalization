@@ -1,0 +1,18 @@
+indicateur,valeur,precision
+Consultations sur la periode,10072,med_consultation
+Consultations avec diagnostic renseigne,7193,71.4 % de completude
+Formes normalisees distinctes,5022,apres normalisation de surface
+Formes repliees distinctes,4559,casse et accents neutralises
+Formes n'apparaissant qu'une fois,4477,89.1 % des formes
+Longueur mediane (caracteres),32,
+Longueur au 90e centile,64,
+Longueur maximale,174,
+Etiquettes candidates extraites,16088,2.24 par diagnostic
+Etiquettes repliees distinctes,2438,
+Etiquettes n'apparaissant qu'une fois,1875,76.9 % du lexique
+Diagnostics multi-etiquettes,5072,70.5 % du corpus
+Etiquettes couvrant 50 % des occurrences,8,rang dans le lexique
+Etiquettes couvrant 80 % des occurrences,143,rang dans le lexique
+Etiquettes couvrant 90 % des occurrences,830,rang dans le lexique
+Segments portant un point residuel,370,2.3 % des etiquettes : borne de la segmentation par regles
+Age renseigne et plausible,7158,99.5 % du corpus

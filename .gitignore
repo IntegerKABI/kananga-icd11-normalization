@@ -1,0 +1,13 @@
+# Nothing that carries id_consultation or id_patient, and no diagnostic wording, belongs here.
+01-donnees/
+*.sql
+*.sql.gz
+*.dump
+03-corpus/*.csv
+04-resultats/appariement_baseline.csv
+04-resultats/variantes_orthographiques.csv
+04-resultats/croisement_paludisme_goutte_epaisse.csv
+02-scripts/identifiants_cim11.json
+.env
+__pycache__/
+*.pyc

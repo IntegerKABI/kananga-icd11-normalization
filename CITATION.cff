@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: >-
+  Normalizing abbreviated French clinical diagnoses to ICD-11 in Kananga,
+  DR Congo
+message: >-
+  If you use this material, please cite the article once published, and this
+  repository in the meantime.
+type: software
+authors:
+  - family-names: Murhula Kabi
+    given-names: Grâce
+    orcid: https://orcid.org/0009-0001-4386-1324
+    affiliation: >-
+      Department of Management Information Systems, Institut Supérieur de
+      Commerce de Bukavu, Bukavu, DR Congo
+    email: murhulakabi@iscbukavu.ac.cd
+  - family-names: Ntaryamira
+    given-names: Evariste
+    affiliation: >-
+      Department of Computer Science, Université Paris 8, France
+abstract: >-
+  Code, segmentation and matching rules, output schemas and aggregated results
+  supporting a study on normalizing abbreviated French clinical diagnoses to
+  the ICD-11 Mortality and Morbidity Statistics linearization, in a polyclinic
+  in Kananga, Democratic Republic of the Congo. Corpus characterization,
+  difficulty analysis and a reproducible lexical baseline. No individual-level
+  data are distributed.
+keywords:
+  - ICD-11
+  - concept normalization
+  - clinical NLP
+  - medical French
+  - automated coding
+  - low-resource settings
+  - sub-Saharan Africa
+license: MIT

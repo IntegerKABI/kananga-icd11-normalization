@@ -1,0 +1,10 @@
+poste,volume,precision
+Occurrences a coder si l'annotation portait sur l'occurrence,16088,reference haute
+Types d'etiquettes distincts,2438,facteur de reduction 6.6
+Annotations pour couvrir 50 % des occurrences,8,P1
+Annotations pour couvrir 80 % des occurrences,143,P1
+Annotations pour couvrir 90 % des occurrences,830,P2
+Annotations pour couvrir 95 % des occurrences,1634,P3
+Echantillon de double codage,400,frequente (>= 50) : 36; moyenne (10 a 49) : 77; rare (2 a 9) : 140; hapax (1) : 147
+Echantillon d'evaluation de bout en bout,330,"stratifie par service, 12 services"
+Graine du tirage,20260824,tirages reproductibles

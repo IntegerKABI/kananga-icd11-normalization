@@ -1,0 +1,9 @@
+methode,types,types_pct,occurrences,occurrences_pct
+1. egalite stricte,102,4.18,5171,32.14
+3. modificateur retire,21,0.86,1244,7.73
+4. appariement approche,207,8.49,337,2.09
+5. sur-specification,78,3.2,2159,13.42
+non apparie,2030,83.26,7177,44.61
+"Total apparie, sur-specification exclue",330,13.54,6752,41.97
+"dont cible non codable, bloc ou chapitre",93,3.81,5188,32.25
+Total apparie a une categorie codable,237,9.72,1564,9.72

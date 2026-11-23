@@ -1,0 +1,13 @@
+indicateur,valeur,precision
+Version de la linearisation,2026-01,Version:2026 Jan 17 - 05:30 UTC
+Entites de la MMS,37052,titres francais et anglais
+Enregistrements recolles a la lecture,78,sauts de ligne non proteges dans les notes de codage
+Entites portant un code,35664,96.3 % du total
+Categories residuelles,5374,14.5 % du total ; autre precise et sans precision
+Entites au titre francais vide,708,1.91 % du total ; le champ ne porte que les tirets de profondeur
+Entites au titre francais recopie de l'anglais,3308,8.9 % du total
+Entites sans libelle francais exploitable,4016,10.8 % du total
+Entites de genre category,35664,
+Entites de genre block,1360,
+Entites de genre chapter,28,
+Chapitres,28,
