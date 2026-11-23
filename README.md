@@ -4,6 +4,9 @@ Companion material for the manuscript *Normalizing abbreviated French clinical d
 low-resource setting: corpus construction, difficulty analysis and a lexical baseline* (Grâce Murhula Kabi,
 Evariste Ntaryamira), currently under review.
 
+Archived release: version 1.0.0, https://doi.org/10.5281/zenodo.24463798
+(all versions: https://doi.org/10.5281/zenodo.24463797).
+
 The study characterizes the free-text diagnoses of 10,072 consecutive consultations recorded over twelve
 months in a general polyclinic in Kananga, Democratic Republic of the Congo, measures what stands in the way
 of their normalization to the ICD-11 Mortality and Morbidity Statistics linearization (release 2026-01), and
